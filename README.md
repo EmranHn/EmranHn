@@ -3,7 +3,7 @@
 I’m a Mechanical Engineer turned tech enthusiast, passionate about blending engineering with AI, computer vision, and signal processing. I enjoy building solutions that solve real-world problems—think innovative tools and impactful systems.
 
 ## 🔧 What I’m About
-- **Skills**: Python, MATLAB, deep learning, SolidWorks, ANSYS Fluent.
+- **Skills**: Computer Vision, Machine Learning frameworks: OpenCV, Keras, Pytorch, TensorFlow
 - **Focus**: Biomechanics, computer vision, and AI-driven engineering solutions.
 - **Projects**: 
   - Built an AI tool for cattle lameness detection.
