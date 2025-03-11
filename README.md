@@ -3,11 +3,16 @@
 I’m a Mechanical Engineer turned tech enthusiast, passionate about blending engineering with AI, computer vision, and signal processing. I enjoy building solutions that solve real-world problems—think innovative tools and impactful systems.
 
 ## 🔧 What I’m About
-- **Skills**: Computer Vision, Machine Learning frameworks: OpenCV, Keras, Pytorch, TensorFlow
+- **Programming in**: Python, MATLAB, C++
+- **Skills**: Computer Vision, Docker, Machine Learning frameworks: OpenCV, Keras, Pytorch, TensorFlow
 - **Focus**: Biomechanics, computer vision, and AI-driven engineering solutions.
 - **Projects**: 
   - Built an AI tool for cattle lameness detection.
   - Optimized hydraulic systems with machine learning.
+  - Developed a method to extract animal gait signals from video with 99.83% accuracy.
+  - Evaluated industrial exoskeletons with wearable sensors for fatigue analysis.
+  - Created an RCNN-based tool for image segmentation (99% accuracy).
+
 
 ## 🌍 Community & Collaboration
 I love sharing ideas and working with others. Catch me contributing to projects, speaking at tech events, or exploring new ways to push engineering forward.
