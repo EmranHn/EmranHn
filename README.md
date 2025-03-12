@@ -8,10 +8,10 @@ I’m a Mechanical Engineer turned tech enthusiast, passionate about blending en
 - **Focus**: Biomechanics, computer vision, and AI-driven engineering solutions.
 - **Projects**: 
   - Built an AI tool for cattle lameness detection.
-  - Optimized hydraulic systems with machine learning.
   - Developed a method to extract animal gait signals from video with 99.83% accuracy.
   - Evaluated industrial exoskeletons with wearable sensors for fatigue analysis.
-  - Created an RCNN-based tool for image segmentation (99% accuracy).
+  - Created an RCNN-based model for image segmentation (99% accuracy).
+  - Optimized hydraulic systems of a piezo material in a water channel.
 
 
 ## 🌍 Community & Collaboration
