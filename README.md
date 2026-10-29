@@ -1,6 +1,6 @@
 # Hey there! 👋 I’m Emran Hamzehnezhad
 
-I’m a Mechanical Engineer turned tech enthusiast, passionate about blending engineering with AI, computer vision, and signal processing. I enjoy building solutions that solve real-world problems—think innovative tools and impactful systems.
+I’m a Mechanical Engineer turned tech enthusiast, passionate about blending engineering with AI, computer vision, and signal processing. I enjoy building solutions that solve real-world problems, think innovative tools and impactful systems.
 
 ## 🔧 What I’m About
 - **Programming in**: Python, MATLAB, C++
